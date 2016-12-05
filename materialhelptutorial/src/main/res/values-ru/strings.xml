@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">help tutorial app</string>
+    <string name="tutorial_done">финишировать</string>
+    <string name="tutorial_skip">пропускать</string>
+</resources>
